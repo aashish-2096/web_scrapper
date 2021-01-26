@@ -1,0 +1,24 @@
+Details to fetch
+
+1.University
+2.Candidate Details 
+	a. Name
+	b. Location
+	c. Working place
+3.Education 
+	a. Undergrad score 
+4.Accomplishments
+	a. Research Papers
+	b. Awards
+	c.Scores
+		i. GRE
+		ii. TOEFL
+		iii. IELTS
+6. Experience
+	a. Name of firm
+	b. Designation
+	c. Timelines
+7. SKills and Endorsments
+ 	a. List of all the skills 
+
+
